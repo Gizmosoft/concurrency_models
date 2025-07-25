@@ -1,0 +1,51 @@
+[Worker-3] https://www.aliexpress.com: No title found
+[Worker-4] https://www.walmart.com: Walmart | Save Money. Live better.
+[Worker-5] https://www.etsy.com: etsy.com
+[Worker-3] https://www.rakuten.com: Promo Codes, Coupons & Cash Back | Rakuten
+[Worker-1] https://www.amazon.com: Amazon.com. Spend less. Smile more.
+[Worker-2] https://www.ebay.com: Electronics, Cars, Fashion, Collectibles & More | eBay
+[Worker-3] https://www.target.com: Target : Expect More. Pay Less.
+[Worker-2] https://www.homedepot.com: The Home Depot
+[Worker-4] https://www.shein.com: Women's Clothing, Women Fashion Sale | SHEIN USA
+[Worker-3] https://www.ikea.com: Hej! Welcome to IKEA Global
+[Worker-2] https://www.zalando.com: Zalando - Shoes and Fashion Online
+[Worker-2] https://www.mercadolibre.com: No title found
+[Worker-3] https://www.trendyol.com: En Trend Ürünler Türkiye'nin Online Alışveriş Sitesi Trendyol'da
+[Worker-3] https://www.samsung.com: Galaxy Z Fold7 | AI Foldable Phone | Samsung US | Samsung US
+[Worker-5] https://www.flipkart.com: Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+[Worker-2] https://www.ozon.ru: Antibot Challenge Page
+[Worker-3] https://www.shop.app: Verifying your connection...
+[Worker-4] https://www.jd.com: JD.com, Inc.
+[Worker-2] https://www.expedia.com: Bot or Not?
+[Worker-4] https://www.apple.com: Apple
+[Worker-4] https://www.verizon.com: Verizon: Wireless, Internet, TV and Phone Services | Official Site
+[Worker-2] https://www.playstation.com: PlayStation® Official Site: Consoles, Games, Accessories & More
+[Worker-3] https://www.airbnb.com: Airbnb: Vacation Rentals, Cabins, Beach Houses, Unique Homes & Experiences
+[Worker-4] https://www.nike.com: Nike. Just Do It. Nike.com
+[Worker-3] https://www.walgreens.com: Walgreens: Pharmacy, Health & Wellness, Photo & More for You
+[Worker-5] https://www.avito.ru: Авито: недвижимость, транспорт, работа, услуги, вещи
+[Worker-5] https://www.bloomberg.com: Bloomberg - Are you a robot?
+[Worker-3] https://www.forbes.com: Forbes
+[Worker-4] https://www.cvs.com: CVS - Online Drugstore, Pharmacy, Prescriptions & Health Information
+[Worker-5] https://www.businessinsider.com: Business Insider - Latest News in Tech, Markets, Economy & Innovation
+[Worker-4] https://www.inc.com: inc.com
+[Worker-4] https://www.example2.com: Just a moment...
+[Worker-5] https://www.example1.com: Example 1
+[Worker-4] https://www.example3.com: Just a moment...
+[Worker-3] https://www.ft.com: Financial Times
+[Worker-4] https://www.example5.com: Attention Required! | Cloudflare
+[Worker-5] https://www.example4.com: example4.com | .us domain statistics, example titles, keywords, links
+[Worker-3] https://www.example6.com: Just a moment...
+[Worker-4] https://www.example7.com: Example7 - Website Development, Maintenance, Training, Consultation - Larry Otis McCort
+[Worker-3] https://www.example9.com: No title found
+[Worker-5] https://www.example8.com: SIKAT88: Penggebrak Skena Jenis Games Online Maknyos di Indonesia
+[Worker-3] https://www.example12.com: Attention Required! | Cloudflare
+[Worker-4] https://www.example11.com: Michigan limousine rates | Limo Chicago
+[Worker-4] https://www.example15.com: Chicago,  car service prices to Chicago airport O'Hare, Midway
+[Worker-3] https://www.example14.com: Michigan limousine rates | Limo Chicago
+[Worker-3] https://www.example17.com: Just a moment...
+[Worker-5] https://www.example24.com: No title found
+[Worker-5] https://www.python.org: Welcome to Python.org
+[Worker-5] https://www.example.com: Example Domain
+[Worker-5] https://www.wikipedia.org: Wikipedia
+[Worker-3] https://www.example20.com: My Blog - My WordPress Blog
